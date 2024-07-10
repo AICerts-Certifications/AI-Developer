@@ -100,7 +100,7 @@ b.Innovative Approaches to Security: Encourage innovative thinking and the devel
 
 ## Modules Overview
 
-### Module 3.1: [Python Fundamentals](Module_3.1.ipynb)
+### Module 3.1: [Python Fundamentals](Module-3.1.ipynb)
 - **Title**: Python Fundamentals
 - **Problem Statement**: Grasping the basic syntax of Python, which is crucial for building a solid foundation in programming. Understanding the roles of variables, data types, operators, expressions, and proper indentation is essential for writing clear and effective code. This hands-on aims to simplify these fundamental concepts, enabling beginners to confidently progress in their Python programming journey.
   
