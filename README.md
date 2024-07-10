@@ -105,12 +105,12 @@ b.Innovative Approaches to Security: Encourage innovative thinking and the devel
 - **Problem Statement**: Grasping the basic syntax of Python, which is crucial for building a solid foundation in programming. Understanding the roles of variables, data types, operators, expressions, and proper indentation is essential for writing clear and effective code. This hands-on aims to simplify these fundamental concepts, enabling beginners to confidently progress in their Python programming journey.
   
 ### Module 3.2: [Understanding Python Control Flow: Mastering Else, Elif, and Nested Statements.](Module-3.2.ipynb)
-- **Title**: Visualizing Cyber Attacks Using Pandas and Matplotlib
-- **Problem Statement**: This exercise aims to create and visualize a dataset related to cyber attacks, specifically phishing attempts, using the Pandas library for data manipulation and Matplotlib for visualization. By exploring and cleaning the data, we can generate meaningful insights and graphical representations that help in understanding the distribution and characteristics of cyber attack data.
+- **Title**: Understanding Python Control Flow: Mastering Else, Elif, and Nested Statements.
+- **Problem Statement**: Effective control flow management is a crucial aspect of programming, allowing developers to dictate the logical progression of their code based on different conditions. Many beginners struggle with understanding and implementing control flow constructs, such as else and elif statements, and building complex logic using nested statements. This hands-on aims to demystify these control flow elements, providing clear explanations and practical examples to gain proficiency in managing program flow in Python.
 
-### Module 3: [ Predictive Analysis for CyberSecurity using Machine Learning](Module_3.ipynb)
-- **Title**: Predictive Analysis for CyberSecurity using Machine Learning
-- **Problem Statement**: The goal of this script is to perform network traffic analysis to detect anomalies in network behavior. This is achieved by capturing network packets, extracting relevant information, and using machine learning to identify potential security threats or network performance issues.
+### Module 3.3: [Python Loops: An Iterative Solutions](Module-3.3.ipynb)
+- **Title**: Python Loops: An Iterative Solutions
+- **Problem Statement**: Effective utilization of loops is pivotal in Python programming, enabling iterative execution of tasks across various data structures and conditions. Understanding the nuances of for and while loops—essential constructs for repetitive tasks—is crucial for optimizing code efficiency and clarity. Many learners encounter challenges in grasping these concepts, hindering their ability to implement iterative solutions effectively. This hands-on aims to elucidate for and while loops comprehensively, providing practical insights and examples to empower in mastering iterative programming in Python.
 
 ### Module 6: [Anomaly Detection in Networks using K-Nearest Neighbors (KNN) Algorithm](Module_6.ipynb)
 - **Title**: Anomaly Detection in Networks using K-Nearest Neighbors (KNN) Algorithm
