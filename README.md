@@ -104,7 +104,7 @@ b.Innovative Approaches to Security: Encourage innovative thinking and the devel
 - **Title**: Python Fundamentals
 - **Problem Statement**: Grasping the basic syntax of Python, which is crucial for building a solid foundation in programming. Understanding the roles of variables, data types, operators, expressions, and proper indentation is essential for writing clear and effective code. This hands-on aims to simplify these fundamental concepts, enabling beginners to confidently progress in their Python programming journey.
   
-### Module 2.2: [Visualizing Cyber Attacks Using Pandas and Matplotlib](Module_2.2.ipynb)
+### Module 3.2: [Understanding Python Control Flow: Mastering Else, Elif, and Nested Statements.](Module-3.2.ipynb)
 - **Title**: Visualizing Cyber Attacks Using Pandas and Matplotlib
 - **Problem Statement**: This exercise aims to create and visualize a dataset related to cyber attacks, specifically phishing attempts, using the Pandas library for data manipulation and Matplotlib for visualization. By exploring and cleaning the data, we can generate meaningful insights and graphical representations that help in understanding the distribution and characteristics of cyber attack data.
 
