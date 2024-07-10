@@ -143,126 +143,55 @@ b.Innovative Approaches to Security: Encourage innovative thinking and the devel
 - **Title**: Hands-on: Customer segmentation
 - **Problem Statement**: The increasing complexity and volume of consumer data necessitate effective methods for integrating and analyzing customer profiles and transaction histories to enhance business strategies and customer service. The objective of this exercise is to merge and analyze a dataset containing basic customer demographics with their respective purchase histories.
 
+### 4.4 Model Evaluation and Selection
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 4.4: [Evaluating and choosing the best model for your project](Module-4.4.ipynb)
+- **Title**: Evaluating and choosing the best model for your project
+- **Problem Statement**: In the area of data science and machine learning, selecting the appropriate model for a given dataset and problem type is crucial for achieving optimal performance. The challenge involves not only training various models but also rigorously evaluating them to determine which model best fits the data and project objectives. This exercise aims to guide participants through the process of training multiple machine learning models on a synthetic dataset, evaluating their performance using established metrics, and selecting the model that provides the most accurate and reliable predictions.
 
+### Module 5: Deep Learning
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 5: [Building a Simple Neural Network to Classify Handwritten Digits](Module-5.ipynb)
+- **Title**: Building a Simple Neural Network to Classify Handwritten Digits
+- **Problem Statement**: Handwritten digit recognition is a fundamental machine learning problem that involves classifying images of handwritten digits (0-9). The objective is to build and train a simple neural network that can accurately classify these digits using the MNIST dataset. This task is pivotal in understanding the basics of neural networks and deep learning.
 
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 6 : Computer Vision
 
+### Module 6: [Image manipulation and enhancement](Module-6.ipynb)
+- **Title**: Image manipulation and enhancement
+- **Problem Statement**: The goal of this exercise is to perform various image manipulation and enhancement techniques such as resizing, converting to grayscale, changing color spaces, adjusting contrast and brightness, and applying Gaussian blur using OpenCV. A synthetic image is generated with a simple shape (rectangle) drawn on it. The image dimensions are 224x224 pixels.
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 7: Natural Language Processing
 
+### Module 7: [Cleaning and Preparing Text Data for NLP Tasks](Module-7.ipynb)
+- **Title**: Cleaning and Preparing Text Data for NLP Tasks
+- **Problem Statement**: The goal of this task is to clean and preprocess a given text dataset to make it suitable for natural language processing (NLP) tasks. This includes removing punctuation, numbers, converting text to lowercase, tokenizing the text, and removing stopwords. Proper preprocessing of text data is crucial to improve the performance of NLP models.
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 8: Reinforcement Learning
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 8: [Building a Simple Game Environment for Reinforcement Learning Experimentation.](Module-8.ipynb)
+- **Title**: Building a Simple Game Environment for Reinforcement Learning Experimentation.
+- **Problem Statement**: Create a simple custom game environment using the OpenAI Gym library to facilitate experimentation with reinforcement learning (RL) algorithms. This environment will be based on the classic CartPole-v1 game, where the objective is to balance a pole on a moving cart.
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 9: Cloud Computing in AI Development
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 9: [Simulating EC2 Instance Launch and Stock Market Data Analysis using AWS CLI and RandomForestClassifier.](Module-9.ipynb)
+- **Title**: Simulating EC2 Instance Launch and Stock Market Data Analysis using AWS CLI and RandomForestClassifier.
+- **Problem Statement**: Simulate the process of launching an Amazon EC2 instance using AWS CLI, and perform a machine learning task on a stock market dataset using a RandomForestClassifier. This involves setting up AWS credentials, launching an EC2 instance, generating synthetic stock market data, preprocessing the data, training a machine learning model, and evaluating its performance.
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 10 Large Language Models
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 10: [Generating Text Using GPT-2 Language Model](Module-10.ipynb)
+- **Title**: Generating Text Using GPT-2 Language Model
+- **Problem Statement**: The goal is to demonstrate how to use the GPT-2 language model to generate text based on an input prompt.
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 11: Cutting-Edge AI Research
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
+### Module 11: [Federated Learning with Hybrid Symbolic-Neural Models](Module-11.ipynb)
+- **Title**: Federated Learning with Hybrid Symbolic-Neural Models
+- **Problem Statement**: The goal is to demonstrate the implementation of a hybrid model that integrates symbolic rules (like logical operations) with a neural network-based model. This approach showcases how federated learning can be utilized where centralized data is unavailable, leveraging a combination of local data and shared neural network models.
 
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
-
-### Module 3.6: [Organizing Python Code: Mastering Modules, Packages, and Namespaces](Module-3.6.ipynb)
-- **Title**: Organizing Python Code: Mastering Modules, Packages, and Namespaces
-- **Problem Statement**: As Python projects grow in complexity, the need for organized, maintainable, and reusable code becomes critical. However, many developers struggle with effectively structuring their codebase using modules and packages, and understanding how namespaces work to avoid conflicts. This guide aims to demystify the concepts of modules, packages, and namespaces, providing clear explanations and practical examples to help developers organize their Python code efficiently and avoid common pitfalls associated with namespace collisions.
 
 ## How to Use
 Each module contains its specific tasks and problem statements. You can dive into any module based on your interest or learning goals. Feel free to explore the provided datasets, code templates, and instructions to complete the tasks. Don't forget to share your insights and solutions with the community!
