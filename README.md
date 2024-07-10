@@ -112,7 +112,7 @@ b.Innovative Approaches to Security: Encourage innovative thinking and the devel
 - **Title**: Python Loops: An Iterative Solutions
 - **Problem Statement**: Effective utilization of loops is pivotal in Python programming, enabling iterative execution of tasks across various data structures and conditions. Understanding the nuances of for and while loops—essential constructs for repetitive tasks—is crucial for optimizing code efficiency and clarity. Many learners encounter challenges in grasping these concepts, hindering their ability to implement iterative solutions effectively. This hands-on aims to elucidate for and while loops comprehensively, providing practical insights and examples to empower in mastering iterative programming in Python.
 
-### Module 6: [Anomaly Detection in Networks using K-Nearest Neighbors (KNN) Algorithm](Module_6.ipynb)
+### Module 3.4: [Unlocking Python Functions: Mastering Arguments and Return Values](Module-3.4.ipynb)
 - **Title**: Anomaly Detection in Networks using K-Nearest Neighbors (KNN) Algorithm
 - **Problem Statement**: Develop a practical approach to detect anomalies in network traffic using the K-Nearest Neighbors (KNN) algorithm. This involves generating synthetic data, training a KNN model, and visualizing the results to identify anomalous data points.
 
